@@ -1,5 +1,6 @@
 <p align='center'>
-  <img src="https://clapped.rip/media/moxx/IK52I/image.png" width="200" height="200">
+<!-- now center it -->
+  <img src="https://clapped.rip/media/moxx/IK52I/image.png" width="200px">
   <b>🦊 Follow me here 🦊</b><br>  
   <a href="https://discord.gg/toolstown">Discord</a> |
   <a href="https://github.com/noritem-dev">Github</a><br><br>
