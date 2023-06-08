@@ -1,12 +1,3 @@
-<p align='center'>
-<!-- now center it -->
-  <img src="https://clapped.rip/media/moxx/IK52I/image.png" width="200px">
-  <b>🦊 Follow me here 🦊</b><br>  
-  <a href="https://discord.gg/toolstown">Discord</a> |
-  <a href="https://github.com/noritem-dev">Github</a><br><br>
-</p>
-
-
 ## 🔮Installation
   0.0 install python [Video](https://www.youtube.com/watch?v=AFY3nKeAUQo)
   0 - Get discord token [Video](https://www.youtube.com/watch?v=udgQha5p8ys)  
