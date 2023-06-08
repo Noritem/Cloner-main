@@ -20,8 +20,7 @@
       1 - put your token in config.json
       2 - Run install.py
       3 - Run run.bat
-
-##  
+      4 - Enjoy
 
 
 ### 🧰 Support
