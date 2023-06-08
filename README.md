@@ -5,7 +5,6 @@
   <img src="https://cdn.discordapp.com/attachments/971147952464752643/983091260648718346/Screenshot_2022-06-05_213331.png" style="width: 60%">
 </p>
 
-##  
 
 
 ### ☕ Usage  
@@ -25,14 +24,12 @@
 - #### 📧 Contact
      - Discord: [Clapped](https://discord.com/users/1100896781778300969)
      - Discord Server: [Clapptown](https://discord.gg/V3qgAvgm9m)
-
-##  
+ 
 
 ### 📜 License & Warning
 - Make for education propose only
 - Under licensed MIT MIT License.
-
-##  
+ 
 
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
